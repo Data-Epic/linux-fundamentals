@@ -14,7 +14,6 @@ The goal is for you to **fork this repository, complete the tasks, and submit a 
 - Practice basic Linux commands (`mkdir`, `ls`, `cd`, `echo`, `cat`, `tar`).
 - Generate and edit files, explore the filesystem, and archive your work.
 
-👉 Full instructions in [`beginner/README.md`](beginner/README.md)
 
 ---
 
@@ -25,7 +24,6 @@ The goal is for you to **fork this repository, complete the tasks, and submit a 
 - Manage file permissions with `chmod`.
 - Explore archiving with `tar`.
 
-👉 Full instructions in [`intermediate/README.md`](intermediate/README.md)
 
 ---
 
